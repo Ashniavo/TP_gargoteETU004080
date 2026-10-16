@@ -1,0 +1,2 @@
+SELECT * FROM Plats ORDER BY prix DESC;
+
